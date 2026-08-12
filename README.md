@@ -1,7 +1,7 @@
 <h1 align="center">Leonardo Coelho</h1>
 
 <p align="center">
-  Desenvolvedor focado em sistemas web, automações, dados e ferramentas internas que resolvem problemas reais de operação.
+  Perfil focado em sistemas web, automações, dados e ferramentas internas que resolvem problemas reais de operação.
 </p>
 
 <p align="center">
