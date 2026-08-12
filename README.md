@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:leonardo.coelho1910@gmail.com">
+  <a href="mailto:leonardo.coelho@alliage-global.com">
     <img src="https://img.shields.io/badge/Email-leonardo.coelho1910%40gmail.com-0f766e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/LeonardoCoelho1910">
@@ -63,5 +63,5 @@ Sistema web para consulta e atualização cadastral de empresas por CNPJ, com im
 Aberto a conversar sobre sistemas internos, automações e ideias para melhorar processos com tecnologia.
 
 <p>
-  <a href="mailto:leonardo.coelho1910@gmail.com">leonardo.coelho1910@gmail.com</a>
+  <a href="mailto:leonardo.coelho@alliage-global.com">leonardo.coelho@alliage-global.com</a>
 </p>
